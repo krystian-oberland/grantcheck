@@ -1,0 +1,96 @@
+[
+  {
+    "id": "g1",
+    "title": "Bezpieczni w domu i szkole – program przeciwdziałania przemocy",
+    "organizer": "Podkarpackie Centrum Wsparcia Społecznego",
+    "deadline": "2026-10-15",
+    "amount": "do 60 000 PLN",
+    "own_contribution": "brak wymaganego wkładu własnego",
+    "funding_type": "dotacja",
+    "locations": ["podkarpackie"],
+    "target_groups": ["dzieci", "młodzież", "rodziny"],
+    "keywords": [
+      "przeciwdziałanie przemocy",
+      "profilaktyka",
+      "bezpieczeństwo",
+      "wsparcie psychologiczne"
+    ],
+    "description": "Konkurs grantowy dla organizacji pozarządowych realizujących programy profilaktyczne i interwencyjne w zakresie przeciwdziałania przemocy wobec dzieci i młodzieży w województwie podkarpackim.",
+    "url": "https://granty.example.org/bezpieczni-w-domu-i-szkole"
+  },
+  {
+    "id": "g2",
+    "title": "Dobrostan psychiczny młodego pokolenia",
+    "organizer": "Fundusz Zdrowia Psychicznego",
+    "deadline": "2026-11-30",
+    "amount": "do 45 000 PLN",
+    "own_contribution": "min. 5% wartości projektu",
+    "funding_type": "grant",
+    "locations": ["cała Polska"],
+    "target_groups": ["dzieci", "młodzież"],
+    "keywords": [
+      "zdrowie psychiczne",
+      "profilaktyka",
+      "wsparcie psychologiczne",
+      "młodzież"
+    ],
+    "description": "Program grantowy wspierający lokalne inicjatywy z zakresu profilaktyki i wsparcia zdrowia psychicznego dzieci i młodzieży, otwarty dla organizacji z całej Polski, w tym z województwa podkarpackiego.",
+    "url": "https://granty.example.org/dobrostan-psychiczny"
+  },
+  {
+    "id": "g3",
+    "title": "Terapia z udziałem zwierząt dla dzieci z niepełnosprawnościami",
+    "organizer": "Fundacja Rozwoju Terapii Alternatywnych",
+    "deadline": "2026-09-20",
+    "amount": "do 35 000 PLN",
+    "own_contribution": "brak wymaganego wkładu własnego",
+    "funding_type": "dotacja",
+    "locations": ["mazowieckie", "Warszawa"],
+    "target_groups": ["dzieci z niepełnosprawnościami"],
+    "keywords": ["hipoterapia", "alpakoterapia", "terapia", "niepełnosprawność"],
+    "description": "Konkurs skierowany do organizacji prowadzących zajęcia hipoterapii i alpakoterapii dla dzieci z niepełnosprawnościami z terenu Warszawy i województwa mazowieckiego.",
+    "url": "https://granty.example.org/terapia-ze-zwierzetami"
+  },
+  {
+    "id": "g4",
+    "title": "Rehabilitacja bez barier – wsparcie dzieci z niepełnosprawnościami",
+    "organizer": "Warszawskie Centrum Pomocy Rodzinie",
+    "deadline": "2026-12-05",
+    "amount": "do 70 000 PLN",
+    "own_contribution": "min. 10% wartości projektu",
+    "funding_type": "grant instytucjonalny",
+    "locations": ["Warszawa"],
+    "target_groups": ["dzieci z niepełnosprawnościami", "rodziny"],
+    "keywords": ["rehabilitacja", "niepełnosprawność", "terapia", "dzieci"],
+    "description": "Konkurs dofinansowujący działania rehabilitacyjne i terapeutyczne skierowane do dzieci z niepełnosprawnościami mieszkających w Warszawie.",
+    "url": "https://granty.example.org/rehabilitacja-bez-barier"
+  },
+  {
+    "id": "g5",
+    "title": "Aktywna społeczność lokalna",
+    "organizer": "Ogólnopolski Fundusz Inicjatyw Obywatelskich",
+    "deadline": "2026-10-31",
+    "amount": "do 25 000 PLN",
+    "own_contribution": "min. 15% wartości projektu",
+    "funding_type": "dotacja",
+    "locations": ["cała Polska"],
+    "target_groups": ["mieszkańcy społeczności lokalnych"],
+    "keywords": ["integracja społeczna", "aktywizacja", "wsparcie rodzin", "zdrowie"],
+    "description": "Szeroko zakrojony konkurs wspierający różnorodne inicjatywy społeczne, w tym działania z zakresu zdrowia, integracji i pomocy rodzinom, bez wąskiej specjalizacji tematycznej.",
+    "url": "https://granty.example.org/aktywna-spolecznosc-lokalna"
+  },
+  {
+    "id": "g6",
+    "title": "Czyste powietrze dla gmin",
+    "organizer": "Narodowy Fundusz Ochrony Środowiska Regionu",
+    "deadline": "2026-11-15",
+    "amount": "do 150 000 PLN",
+    "own_contribution": "min. 20% wartości projektu",
+    "funding_type": "dotacja infrastrukturalna",
+    "locations": ["cała Polska"],
+    "target_groups": ["jednostki samorządu terytorialnego"],
+    "keywords": ["ochrona środowiska", "jakość powietrza", "infrastruktura", "gminy"],
+    "description": "Konkurs dla gmin i jednostek samorządu terytorialnego na inwestycje związane z ograniczeniem niskiej emisji i poprawą jakości powietrza.",
+    "url": "https://granty.example.org/czyste-powietrze-dla-gmin"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pro-fil",
+    "name": "Fundacja PRO-FIL",
+    "locations": ["podkarpackie"],
+    "activities": [
+      "zdrowie psychiczne",
+      "przeciwdziałanie przemocy",
+      "wsparcie dzieci i młodzieży"
+    ],
+    "target_groups": ["dzieci", "młodzież"],
+    "keywords": [
+      "zdrowie psychiczne",
+      "przemoc",
+      "profilaktyka",
+      "wsparcie psychologiczne",
+      "dzieci",
+      "młodzież",
+      "podkarpackie"
+    ],
+    "red_flags": [
+      "wymagany wkład własny powyżej 30%",
+      "konkurs wyłącznie dla jednostek samorządu terytorialnego"
+    ]
+  },
+  {
+    "id": "pociechom",
+    "name": "Fundacja Pociechom",
+    "locations": ["mazowieckie", "Warszawa"],
+    "activities": [
+      "hipoterapia",
+      "alpakoterapia",
+      "rehabilitacja",
+      "terapia dzieci z niepełnosprawnościami"
+    ],
+    "target_groups": ["dzieci z niepełnosprawnościami"],
+    "keywords": [
+      "hipoterapia",
+      "alpakoterapia",
+      "rehabilitacja",
+      "niepełnosprawność",
+      "terapia",
+      "dzieci",
+      "Warszawa"
+    ],
+    "red_flags": [
+      "konkurs wymaga posiadania statusu OPP od min. 5 lat",
+      "brak możliwości finansowania zajęć ze zwierzętami terapeutycznymi"
+    ]
+  }
+]
